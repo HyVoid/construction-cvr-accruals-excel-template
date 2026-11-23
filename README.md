@@ -14,6 +14,17 @@
 
 ---
 
+## Questions, Feedback & Product Updates
+
+This CVR and accruals toolkit is designed around monthly construction cost reconciliation, unbilled site liability capture, evidence-weighted variation valuation, package-level Estimate at Completion (EAC), and margin-drift control. Feedback from quantity surveyors, project accountants, commercial managers, and project teams helps improve the month-end workflow and the interpretation of commercial risk signals.
+
+- **Questions & workflow fit:** [Ask about CVR cut-off dates, certified value, booked ledger costs, site accruals, Cost to Complete (CTC), variation confidence, EAC, WIP, or package margin drift](https://github.com/HyVoid/business-decision-toolbox/discussions/categories/questions).
+- **Ideas & improvements:** [Suggest additional accrual categories, variation evidence rules, package-level controls, reconciliation checks, or management reports](https://github.com/HyVoid/business-decision-toolbox/discussions/categories/ideas).
+- **Report a technical problem:** [Open the construction CVR & accruals issue form](https://github.com/HyVoid/construction-cvr-accruals-excel-template/issues/new?template=bug-report.yml).
+- **Product updates:** [Follow maintenance and improvement notes](https://github.com/HyVoid/business-decision-toolbox/discussions/categories/product-updates).
+
+When describing a problem, mention the reporting cut-off date, affected package code, valuation or ledger source, accrual category, variation evidence status, and expected versus actual result. Use synthetic package codes, dates, and amounts. Do not upload live project CVRs, general-ledger or AP exports, subcontractor valuations, payroll or timesheets, disputed claims, client details, bank data, credentials, or confidential project margins. GitHub Issues and Discussions are public; use fictional or properly anonymized examples only.
+
 ## What This Construction CVR & Accruals Excel Template Tracks (Pain-Point to Solution Map)
 
 Month-end construction accounting often overstates project profit because site consumption outpaces supplier invoicing. The table below maps common construction cost control pain points directly to what this workbook calculates and the commercial action it triggers.
