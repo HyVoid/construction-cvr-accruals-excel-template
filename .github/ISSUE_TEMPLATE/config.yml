@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: "Questions & workflow fit"
+    url: "https://github.com/HyVoid/business-decision-toolbox/discussions/categories/questions"
+    about: "Ask about monthly CVR, site accruals, WIP, variation confidence, EAC, and package margin workflows."
+  - name: "Ideas & feature requests"
+    url: "https://github.com/HyVoid/business-decision-toolbox/discussions/categories/ideas"
+    about: "Suggest additional cost-control scenarios, accrual checks, commercial controls, or reporting outputs."
+  - name: "Product updates"
+    url: "https://github.com/HyVoid/business-decision-toolbox/discussions/categories/product-updates"
+    about: "Follow product maintenance notes and meaningful improvements."
