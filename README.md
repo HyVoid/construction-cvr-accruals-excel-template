@@ -10,7 +10,7 @@
 > **Two Ways to Use This Construction Cost Control Framework:**
 >
 > - **Try the Free Online Browser Tool (No Signup, Instant Test):** [Launch the Free Monthly CVR & Accruals Web Calculator]([INSERT_FREE_WEB_TOOL_URL]) to test the reconciliation logic on a single scenario directly in your browser.
-> - **Download the Full Reusable Local Excel Workbook (One-Time Purchase · 30-Day No-Questions-Asked Money-Back Guarantee):** [Get the Complete Monthly Construction CVR & Accruals Excel Template on Theseus Workshop]([INSERT_GUMROAD_PRODUCT_URL]) — pre-built with self-updating formulas, stored 100% locally on your computer for complete financial data privacy, with zero recurring SaaS subscription fees.
+> - **Download the Full Reusable Local Excel Workbook (One-Time Purchase · 30-Day No-Questions-Asked Money-Back Guarantee):** [Get the Complete Monthly Construction CVR & Accruals Excel Template on Theseus Workshop](https://theseusworkshop.com/l/cnjyy) — pre-built with self-updating formulas, stored 100% locally on your computer for complete financial data privacy, with zero recurring SaaS subscription fees.
 
 ---
 
@@ -83,7 +83,7 @@ The free web tool is built for quick, one-off testing. When you are ready to run
 - **Risk-Free Evaluation:** Backed by a **30-day no-questions-asked money-back guarantee**.
 
 > **Ready to standardize your monthly project cost control?**
-> [Download the Full Monthly Construction CVR & Accruals Excel Workbook (One-Time Purchase · 30-Day Money-Back Guarantee)]([INSERT_GUMROAD_PRODUCT_URL])
+> [Download the Full Monthly Construction CVR & Accruals Excel Workbook (One-Time Purchase · 30-Day Money-Back Guarantee)](https://theseusworkshop.com/l/cnjyy)
 
 ---
 
