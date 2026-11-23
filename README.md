@@ -9,21 +9,10 @@
 
 > **Two Ways to Use This Construction Cost Control Framework:**
 >
-> - **Try the Free Online Browser Tool (No Signup, Instant Test):** [Launch the Free Monthly CVR & Accruals Web Calculator]([INSERT_FREE_WEB_TOOL_URL]) to test the reconciliation logic on a single scenario directly in your browser.
-> - **Download the Full Reusable Local Excel Workbook (One-Time Purchase · 30-Day No-Questions-Asked Money-Back Guarantee):** [Get the Complete Monthly Construction CVR & Accruals Excel Template on Theseus Workshop](https://theseusworkshop.com/l/cnjyy) — pre-built with self-updating formulas, stored 100% locally on your computer for complete financial data privacy, with zero recurring SaaS subscription fees.
+> - **Try the Free Online Browser Tool (No Signup, Instant Test):** [Launch the Free Monthly CVR & Accruals Web Calculator](https://hyvoid.github.io/construction-cvr-accruals-excel-template/) to test the reconciliation logic on a single scenario directly in your browser.
+> - **Download the Full Reusable Local Excel Workbook (One-Time Purchase · 30-Day No-Questions-Asked Money-Back Guarantee):** [Get the Complete Monthly Construction CVR & Accruals Excel Template on Theseus Workshop](https://theseusworkshop.com/l/cnjyy?utm_source=github&utm_medium=GitHub%20README) — pre-built with self-updating formulas, stored 100% locally on your computer for complete financial data privacy, with zero recurring SaaS subscription fees.
 
 ---
-
-## Questions, Feedback & Product Updates
-
-This CVR and accruals toolkit is designed around monthly construction cost reconciliation, unbilled site liability capture, evidence-weighted variation valuation, package-level Estimate at Completion (EAC), and margin-drift control. Feedback from quantity surveyors, project accountants, commercial managers, and project teams helps improve the month-end workflow and the interpretation of commercial risk signals.
-
-- **Questions & workflow fit:** [Ask about CVR cut-off dates, certified value, booked ledger costs, site accruals, Cost to Complete (CTC), variation confidence, EAC, WIP, or package margin drift](https://github.com/HyVoid/business-decision-toolbox/discussions/categories/questions).
-- **Ideas & improvements:** [Suggest additional accrual categories, variation evidence rules, package-level controls, reconciliation checks, or management reports](https://github.com/HyVoid/business-decision-toolbox/discussions/categories/ideas).
-- **Report a technical problem:** [Open the construction CVR & accruals issue form](https://github.com/HyVoid/construction-cvr-accruals-excel-template/issues/new?template=bug-report.yml).
-- **Product updates:** [Follow maintenance and improvement notes](https://github.com/HyVoid/business-decision-toolbox/discussions/categories/product-updates).
-
-When describing a problem, mention the reporting cut-off date, affected package code, valuation or ledger source, accrual category, variation evidence status, and expected versus actual result. Use synthetic package codes, dates, and amounts. Do not upload live project CVRs, general-ledger or AP exports, subcontractor valuations, payroll or timesheets, disputed claims, client details, bank data, credentials, or confidential project margins. GitHub Issues and Discussions are public; use fictional or properly anonymized examples only.
 
 ## What This Construction CVR & Accruals Excel Template Tracks (Pain-Point to Solution Map)
 
@@ -37,6 +26,15 @@ Month-end construction accounting often overstates project profit because site c
 | **Hidden Subcontract Package Margin Fade (Margin Drift)** | Tracks **original commercial target margin vs. current forecast margin** across every individual trade and subcontract package | Exposes bleeding packages early—before profitable trades mask losses inside project-level summary totals |
 | **Blind Final Cost Projections (Estimate at Completion / EAC)** | Consolidates **booked costs to date + site accruals + remaining Cost to Complete (CTC)** into a package-level **EAC forecast** | Gives leadership a defensible forecast of final project profitability months before practical completion |
 | **Disconnected Reporting with Zero Commercial Follow-Up** | Auto-flags **high-value unresolved variations and red-alert margin drift packages** inside an action register | Converts monthly cost reports into concrete commercial orders for claim substantiation, procurement freezes, or payment controls |
+
+
+## Spreadsheet Preview
+
+Want to take a closer look before downloading? You can preview the spreadsheet in Google Sheets to explore its layout, structure, and calculation logic.
+
+**[View Spreadsheet Preview on Google Sheets](https://docs.google.com/spreadsheets/d/1pfwowsXch8fIxNKtaFR8Fk72LO1sItNC/edit?usp=sharing&ouid=108770714531989318327&rtpof=true&sd=true)**
+
+> **Note on Compatibility:** The Google Sheets preview may display occasional `#NAME?` errors or formula warnings due to differences between Google Sheets and Microsoft Excel formula compatibility. These are preview-only compatibility issues and do not affect the functionality of the original Excel workbook. For the intended formula behavior and full functionality, please download and open the `.xlsx` file in Microsoft Excel.
 
 ---
 
@@ -69,7 +67,7 @@ You do not need an enterprise accounting department to encounter commercial blin
 Commercial cost reconciliation and accrual accounting look complex on paper, which is why many small teams avoid doing them until cash flow breaks. **In this Excel workbook, all auto-matching lookup rules, risk-weighting logic, and dynamic consolidation formulas are already pre-built and self-updating.** You do not even need to double-click to drag formulas down—simply paste your project data and read the decision outputs.
 
 ### Step 1: Test the Logic Free Online or Set Your Monthly CVR Parameters
-Start by exploring the calculation flow in the [Free Online Construction CVR & Accruals Web Tool]([INSERT_FREE_WEB_TOOL_URL]), or open `00_Global Parameters` inside the local Excel workbook. Set your monthly **cut-off date**, currency symbol, variation confidence percentages, margin-drift warning thresholds, accrual alert limits, and claim follow-up thresholds. Because every assumption is centralized, you can adjust commercial risk rules anytime without rebuilding a single formula.
+Start by exploring the calculation flow in the [Free Online Construction CVR & Accruals Web Tool](https://hyvoid.github.io/construction-cvr-accruals-excel-template/), or open `00_Global Parameters` inside the local Excel workbook. Set your monthly **cut-off date**, currency symbol, variation confidence percentages, margin-drift warning thresholds, accrual alert limits, and claim follow-up thresholds. Because every assumption is centralized, you can adjust commercial risk rules anytime without rebuilding a single formula.
 
 ### Step 2: Copy-Paste Your Valuation, Ledger & Site Accrual Data
 Paste your existing spreadsheet or accounting exports directly into the three designated input tabs:
@@ -94,7 +92,7 @@ The free web tool is built for quick, one-off testing. When you are ready to run
 - **Risk-Free Evaluation:** Backed by a **30-day no-questions-asked money-back guarantee**.
 
 > **Ready to standardize your monthly project cost control?**
-> [Download the Full Monthly Construction CVR & Accruals Excel Workbook (One-Time Purchase · 30-Day Money-Back Guarantee)](https://theseusworkshop.com/l/cnjyy)
+> [Download the Full Monthly Construction CVR & Accruals Excel Workbook (One-Time Purchase · 30-Day Money-Back Guarantee)](https://theseusworkshop.com/l/cnjyy?utm_source=github&utm_medium=GitHub%20README)
 
 ---
 
@@ -151,7 +149,7 @@ Every toolkit is built around one question: **What numbers need to sit in one pl
 Looking for more ready-to-use, one-time-purchase Excel workbooks for construction estimating, project cost control, cash flow forecasting, and operational management—with zero recurring SaaS fees and full offline privacy?
 
 - **[Browse All Construction & Business Decision Excel Toolkits at Theseus Workshop (theseusworkshop.com)](https://theseusworkshop.com/)**
-- **[Download the Full Monthly Construction CVR & Accruals Excel Workbook]([INSERT_GUMROAD_PRODUCT_URL])**
+- **[Download the Full Monthly Construction CVR & Accruals Excel Workbook](https://theseusworkshop.com/l/cnjyy?utm_source=github&utm_medium=GitHub%20README)**
 - **[View the Apache 2.0 Repository License](LICENSE)**
 
 
@@ -385,8 +383,6 @@ The appropriate response is a commercial review, claim evidence follow-up, and c
 ### Formula Reference
 
 The formulas below describe the workbook's calculation logic. Formula groups are organized by source sheet and calculation layer.
-
-</details>
 
 
 <details>
@@ -820,8 +816,6 @@ The implementation specification includes a cross-validation review of the archi
 
 The design specification reports the cross-validation as complete. This is a design-level mapping review, not a claim that every deployed workbook instance has been independently tested.
 
-</details>
-
 ---
 
 
@@ -938,6 +932,13 @@ If the project changes currency, synchronize the numeric display formats across 
 ## Other Tools in This Series
 
 Explore other lightweight construction and project-control tools in the [Theseus Workshop / HyVoid GitHub repositories](https://github.com/HyVoid).
+
+- [Construction Estimating](https://github.com/HyVoid/construction-estimating) — Standardize construction tender estimating and transform completed estimates into reusable cost libraries.
+- [AIA Construction Estimating Cost Tracking Workbook](https://github.com/HyVoid/aia-construction-cost-tracker-excel) — Compare construction estimates against actual costs throughout project delivery using AIA-standard formats.
+- [Construction Project Management Excel](https://github.com/HyVoid/construction-project-management-excel) — Integrate budgets, change orders, progress billing, and cash flow into a single construction project control framework.
+- [Residential BOQ Template](https://github.com/HyVoid/residential-boq-template) — Estimate residential construction costs from BOQ takeoffs and rates while tracking approved budgets against actual spending.
+- [Tunnel Drill and Blast Cost Estimation BOQ Engine](https://github.com/HyVoid/tunnel-cost-estimator-boq-excel) — Estimate drill-and-blast tunnel excavation, drilling, blasting, support, equipment, and labour requirements into a complete project cost and BOQ.
+- [DIN 743 Shaft Calculations](https://github.com/HyVoid/DIN-743-Shaft-Calculations) — Apply DIN 743 shaft calculation standards to engineering design decisions.
 
 Designed to support estimation, cost tracking, project management, and operational decision-making without requiring a full enterprise software implementation.
 
