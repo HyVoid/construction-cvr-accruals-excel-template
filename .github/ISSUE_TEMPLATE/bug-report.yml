@@ -1,0 +1,114 @@
+name: "Construction CVR / Accruals Workbook Issue"
+description: "Report a reproducible CVR reconciliation, site accrual, variation weighting, EAC, margin-drift, calculation, or compatibility problem."
+title: "[Bug]: "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this form only for a reproducible technical problem. For workflow questions or feature suggestions, use the [Theseus Workshop Discussions](https://github.com/HyVoid/business-decision-toolbox/discussions) instead.
+
+        Do not upload live project CVRs, general-ledger or AP exports, subcontractor valuations, payroll or timesheets, disputed claims, client details, bank data, credentials, or confidential project margins. GitHub Issues are public. Use fictional package codes, dates, and amounts only.
+
+  - type: dropdown
+    id: problem_area
+    attributes:
+      label: Which CVR / cost control area is affected?
+      options:
+        - "Monthly cut-off date / period alignment"
+        - "Certified value / interim valuation reconciliation"
+        - "Booked cost ledger / AP cost matching"
+        - "Unbilled site accruals (plant, labor, materials, subcontractors)"
+        - "Variation / change-order evidence status or confidence weighting"
+        - "Package code matching / consolidation"
+        - "Cost to Complete (CTC) / Estimate at Completion (EAC)"
+        - "Forecast profit / margin / margin drift"
+        - "WIP / book profit versus forecast profit"
+        - "Claims, procurement, or payment control action register"
+        - "Dashboard / risk status / exception flags"
+        - "Browser tool behaviour"
+        - "Excel formula / calculation issue"
+        - "Compatibility / documentation"
+        - "Other"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: environment
+    attributes:
+      label: Where did this happen?
+      options:
+        - "Microsoft Excel for Windows"
+        - "Microsoft Excel for Mac"
+        - "Excel for the web"
+        - "Free browser CVR tool"
+        - "Google Sheets preview"
+        - "Other / not sure"
+    validations:
+      required: true
+
+  - type: input
+    id: version
+    attributes:
+      label: Excel version or browser/tool version
+      description: Optional. Include the Excel build or browser and the date tested, if known.
+      placeholder: "Microsoft 365 desktop, Excel 2024, or browser and test date"
+    validations:
+      required: false
+
+  - type: textarea
+    id: summary
+    attributes:
+      label: What happened?
+      description: Identify the synthetic package code, reporting cut-off, source schedule, accrual category, variation status, or EAC output affected.
+      placeholder: "For synthetic package PKG-04 at the 2026-10-31 cut-off, the plant accrual..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected_result
+    attributes:
+      label: What did you expect to happen?
+      placeholder: "I expected the unbilled cost / risk-weighted variation / EAC to..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: actual_result
+    attributes:
+      label: What happened instead?
+      description: Include the displayed value, variance, status, or error using illustrative figures only.
+      placeholder: "Instead, the CVR dashboard shows..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: reproduction_steps
+    attributes:
+      label: Steps to reproduce
+      description: List the smallest repeatable sequence using synthetic package and cost data.
+      placeholder: |
+        1. Open the workbook or browser tool...
+        2. Enter a synthetic certified value and booked cost...
+        3. Add a fictitious unbilled accrual or variation...
+        4. Review the package CVR / EAC / margin output...
+    validations:
+      required: false
+
+  - type: textarea
+    id: safe_example
+    attributes:
+      label: Synthetic package example / affected cell
+      description: Optional. Use fictitious package IDs, reporting dates, costs, accruals, variation status, and values. Do not attach a real CVR pack or accounting export.
+      placeholder: "Package: DEMO-PKG-01 | Cut-off: YYYY-MM-DD | Booked costs: 100 | Accrual: 20 | Expected EAC: ..."
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: privacy_check
+    attributes:
+      label: Public issue and data-safety confirmation
+      options:
+        - label: I have used fictional or properly anonymized examples and removed client/project identities, subcontractor rates, ledger/AP data, payroll, timesheets, claim details, bank data, credentials, and confidential project information.
+          required: true
+        - label: I understand this is a public GitHub issue, not a private project finance or commercial support channel.
+          required: true
