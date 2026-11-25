@@ -1,5 +1,11 @@
 blank_issues_enabled: false
 contact_links:
+  - name: 📥 Download the Free Full Excel Workbook ($0+ PWYW)
+    url: https://theseusworkshop.com/l/cnjyy?utm_source=github&utm_medium=repo_issue_menu
+    about: Get the complete 7-tab local .xlsx file on Theseus Workshop (enter $0 for free).
+  - name: 🧰 Browse More Construction & Business Excel Toolkits
+    url: https://theseusworkshop.com/?utm_source=github&utm_medium=repo_issue_menu
+    about: Explore ready-to-use estimating, BOQ, cash flow, and project decision spreadsheets.
   - name: "Questions & workflow fit"
     url: "https://github.com/HyVoid/business-decision-toolbox/discussions/categories/questions"
     about: "Ask about monthly CVR, site accruals, WIP, variation confidence, EAC, and package margin workflows."
