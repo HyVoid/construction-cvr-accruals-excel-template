@@ -1,162 +1,169 @@
-# Construction Monthly Cost Value Reconciliation (CVR) & Accruals Excel Template — WIP, Variation Risk & EAC Forecasting Tool
+# Free Construction Monthly Cost Value Reconciliation (CVR) & Accruals Excel Template — WIP, Variation Risk & EAC Forecasting Tool
 
+[![Price: Free ($0+ Pay What You Want)](https://img.shields.io/badge/Price-Free%20(%240%2B%20PWYW)-brightgreen.svg)](https://theseusworkshop.com/l/cnjyy?utm_source=github&utm_medium=GitHub%20README)
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
 ![Platform: Microsoft Excel & Free Web Tool](https://img.shields.io/badge/Platform-Excel%20%7C%20Web%20Tool-217346.svg)
 ![Industry: Construction Cost Control](https://img.shields.io/badge/Industry-Construction%20%26%20QS-orange.svg)
 ![Category: CVR, WIP & Accruals](https://img.shields.io/badge/Tool-CVR%20%26%20Accruals-2251FF.svg)
 
-**A ready-to-use monthly Construction Cost Value Reconciliation (CVR) and site accruals Excel template designed for project teams, quantity surveyors (QS), and contractors to reconcile certified value, booked ledger costs, unbilled site liabilities, disputed change orders, and Estimate at Completion (EAC) forecasts before invoice lag creates misleading profit reports.**
+**Walk into your next month-end review with boardroom-ready numbers—without spending days fighting broken spreadsheets.** This free, plug-and-play monthly **Construction Cost Value Reconciliation (CVR) and Site Accruals Excel template** is built for junior Quantity Surveyors (QS), project managers, and growing contractors who need to reconcile certified value, booked ledger costs, unbilled site liabilities, disputed variations, and Estimate at Completion (EAC) forecasts in minutes.
 
-> **Two Ways to Use This Construction Cost Control Framework:**
+> ### Get Started in Seconds — 100% Free ($0+ Pay What You Want)
 >
-> - **Try the Free Online Browser Tool (No Signup, Instant Test):** [Launch the Free Monthly CVR & Accruals Web Calculator](https://hyvoid.github.io/construction-cvr-accruals-excel-template/) to test the reconciliation logic on a single scenario directly in your browser.
-> - **Download the Full Reusable Local Excel Workbook (One-Time Purchase · 30-Day No-Questions-Asked Money-Back Guarantee):** [Get the Complete Monthly Construction CVR & Accruals Excel Template on Theseus Workshop](https://theseusworkshop.com/l/cnjyy?utm_source=github&utm_medium=GitHub%20README) — pre-built with self-updating formulas, stored 100% locally on your computer for complete financial data privacy, with zero recurring SaaS subscription fees.
+> - **Option 1 — Download the Full Reusable Local Excel Workbook (Free · $0+ Pay What You Want):** [Get the Complete Monthly Construction CVR & Accruals Excel Template on Theseus Workshop](https://theseusworkshop.com/l/cnjyy?utm_source=github&utm_medium=GitHub%20README) — download the full 7-tab `.xlsx` workbook for **$0** (or pay what you want to support our workshop). Pre-built with self-updating formulas, reusable across unlimited projects, stored 100% locally for complete financial privacy, with zero SaaS subscriptions.
+> - **Option 2 — Test the Logic Instantly in Your Browser (No Signup Required):** [Launch the Free Online Monthly CVR & Accruals Web Calculator](https://hyvoid.github.io/construction-cvr-accruals-excel-template/) to run a quick single-scenario check before downloading the full multi-package Excel toolkit.
 
 ---
 
-## What This Construction CVR & Accruals Excel Template Tracks (Pain-Point to Solution Map)
+## Why This Free Template Exists (Skip the Learning Curve, Get Instant Clarity)
 
-Month-end construction accounting often overstates project profit because site consumption outpaces supplier invoicing. The table below maps common construction cost control pain points directly to what this workbook calculates and the commercial action it triggers.
+Month-end construction reporting is stressful—especially if you are handling commercial control without an enterprise ERP system or a senior accounting team behind you. Standard accounting ledgers routinely overstate project profit because site costs happen weeks before supplier invoices arrive.
 
-| Construction Cost Control Pain Point | What This CVR Excel Template Tracks & Calculates | Commercial Decision Outcome |
+Instead of spending your weekend building complex `SUMIFS` and lookup sheets from scratch, this workbook hands you a **ready-to-use commercial control engine**. Paste your numbers, get senior-level diagnostic clarity in minutes, and catch profit leaks before leadership asks tough questions.
+
+| Construction Cost Control Pain Point | What This Free CVR Excel Template Calculates Automatically | Instant Commercial Win for You |
 |---|---|---|
-| **Inflated Book Profit vs. True Forecast Profit (WIP Overstatement)** | Reconciles accounting ledger profit against **certified value, accrued costs, and remaining Cost to Complete (CTC)** | Immediately separates real project margin from artificial profit caused by late supplier invoices and optimistic revenue booking |
-| **Missing Unbilled Site Liabilities (Construction Accruals Gap)** | Captures **unbilled plant/equipment hire, site labor hours, materials on site, and subcontractor valuation differences** prior to invoice receipt | Closes the gap between site expenditure and accounts payable so month-end cost reports reflect true operational liability |
-| **Overstated Change-Order & Variation Revenue Risk** | Applies **evidence-based confidence weightings** to submitted, disputed, and unapproved variation orders instead of recognizing 100% claim value | Prevents unagreed claims from artificially inflating Work in Progress (WIP) revenue and highlights under-documented claims |
-| **Hidden Subcontract Package Margin Fade (Margin Drift)** | Tracks **original commercial target margin vs. current forecast margin** across every individual trade and subcontract package | Exposes bleeding packages early—before profitable trades mask losses inside project-level summary totals |
-| **Blind Final Cost Projections (Estimate at Completion / EAC)** | Consolidates **booked costs to date + site accruals + remaining Cost to Complete (CTC)** into a package-level **EAC forecast** | Gives leadership a defensible forecast of final project profitability months before practical completion |
-| **Disconnected Reporting with Zero Commercial Follow-Up** | Auto-flags **high-value unresolved variations and red-alert margin drift packages** inside an action register | Converts monthly cost reports into concrete commercial orders for claim substantiation, procurement freezes, or payment controls |
+| **Inflated Book Profit vs. True Forecast Profit (WIP Overstatement)** | Reconciles accounting ledger profit against **certified value, accrued costs, and remaining Cost to Complete (CTC)** | Immediately separate real margin from artificial profit caused by late invoices—so you never get blindsided at final account |
+| **Missing Unbilled Site Liabilities (Construction Accruals Gap)** | Captures **unbilled plant/equipment hire, site labor hours, materials on site, and subcontractor valuation variances** before invoices arrive | Produce clean, defensible month-end cost figures that reflect real site spending instead of lagging accounts payable |
+| **Overstated Change-Order & Variation Revenue Risk** | Applies **evidence-based confidence weightings** to submitted, disputed, and unapproved variations instead of counting 100% face value | Stop unagreed claims from inflating Work in Progress (WIP) revenue and know exactly which claims need evidence right now |
+| **Hidden Subcontract Package Margin Fade (Margin Drift)** | Compares **original commercial target margin vs. current forecast margin** across every individual trade and subcontract package | Spot bleeding trade packages early—before profitable trades mask losses inside a misleading project total |
+| **Blind Final Cost Projections (Estimate at Completion / EAC)** | Consolidates **booked costs to date + site accruals + remaining Cost to Complete (CTC)** into a package-level **EAC forecast** | Deliver confident, data-backed forecasts of final job profitability months before practical completion |
+| **Reports That Sit in Folders With Zero Action** | Auto-flags **high-value unresolved variations and red-alert margin drift packages** inside a prioritized action register | Walk out of your analysis with clear commercial next steps for claim substantiation, procurement freezes, or payment checks |
 
+---
 
 ## Spreadsheet Preview
 
-Want to take a closer look before downloading? You can preview the spreadsheet in Google Sheets to explore its layout, structure, and calculation logic.
+Want to inspect the layout, dashboard, and formula structure before grabbing your free copy? Preview the workbook directly in Google Sheets:
 
-**[View Spreadsheet Preview on Google Sheets](https://docs.google.com/spreadsheets/d/1pfwowsXch8fIxNKtaFR8Fk72LO1sItNC/edit?usp=sharing&ouid=108770714531989318327&rtpof=true&sd=true)**
+**[View Live Spreadsheet Preview on Google Sheets](https://docs.google.com/spreadsheets/d/1pfwowsXch8fIxNKtaFR8Fk72LO1sItNC/edit?usp=sharing&ouid=108770714531989318327&rtpof=true&sd=true)**
 
-> **Note on Compatibility:** The Google Sheets preview may display occasional `#NAME?` errors or formula warnings due to differences between Google Sheets and Microsoft Excel formula compatibility. These are preview-only compatibility issues and do not affect the functionality of the original Excel workbook. For the intended formula behavior and full functionality, please download and open the `.xlsx` file in Microsoft Excel.
-
----
-
-## Who This Construction CVR Excel Template Is Built For: Roles & Job-Specific Use Cases
-
-Whether you are running your first monthly commercial review or standardizing reporting across multiple active subcontract packages, this workbook pairs specific industry roles with ready-made Excel workflows:
-
-- **Junior Quantity Surveyors (QS) & Assistant QS — *QS CVR Excel Template*:** Standardize monthly interim valuation reconciliations, track subcontractor certified vs. applied values, and build defensible CVR packs without writing complex spreadsheet formulas from scratch.
-- **Construction Project Managers (PMs) — *Construction Project Cost Control Spreadsheet*:** Monitor package-level Cost to Complete (CTC), unbilled plant/labor accruals, and margin erosion in plain English without waiting weeks for head-office accounting close.
-- **Commercial Managers & Cost Controllers — *Monthly CVR & Margin Drift Reporting Tool*:** Enforce consistent month-end cut-off dates across finance and site teams, discount high-risk variation claims systematically, and prioritize commercial intervention on red-flag packages.
-- **Construction Project Accountants & Bookkeepers — *Construction Accruals & WIP Excel Tracker*:** Bridge the timing mismatch between the booked AP/general ledger and actual site progress to produce cleaner month-end accrual journals and WIP schedules.
-- **General Contractors & Small-to-Midsize Builders — *Offline Excel Alternative to Construction ERP Software*:** Get structured package-level cost control across residential, commercial fit-out, civil, facade, and MEP projects without paying thousands per year for enterprise platforms like Procore, Coins, or CMiC.
-- **Procurement & Subcontract Administrators — *Subcontractor Package Exposure & Payment Control Tracker*:** Spot packages trending over budget early enough to trigger procurement reviews, back-charge checks, and payment certificate holds.
+> **Note on Compatibility:** Google Sheets may display occasional `#NAME?` errors or formula warnings due to dynamic-array differences between Google Sheets and Microsoft Excel. These are preview-only artifacts and do not occur in the actual Excel file. For full automated calculations, [download the free `.xlsx` workbook here](https://theseusworkshop.com/l/cnjyy?utm_source=github&utm_medium=GitHub%20README) and open it in Microsoft Excel.
 
 ---
 
-## Real-World Construction Scenarios: When to Run a Monthly CVR, WIP & Accruals Check
+## Who This Construction CVR Excel Template Is Built For
 
-You do not need an enterprise accounting department to encounter commercial blind spots. This ready-to-use Excel template directly addresses four recurring construction site scenarios:
+You do not need years of corporate commercial management experience—or a $10,000/year software budget—to run disciplined monthly cost control. This toolkit is designed for hands-on construction professionals who want **immediate, reliable decision tools**:
 
-1. **Month-End Director Reporting Under Time Pressure:** When senior management asks for true project margin before final subcontractor invoices arrive, and you need a repeatable monthly reconciliation pack in minutes.
-2. **Heavy Subcontracting & Multi-Package Jobs (MEP, Civil, Fit-Out, Facade):** When 10 to 50+ trade packages run simultaneously and a single underperforming subcontract threatens to wipe out total job profit.
-3. **High-Variation or Disputed Scope Projects:** When pending change orders represent a large share of projected revenue, and you need an objective rule to separate substantiated entitlement from wishful thinking.
-4. **Transitioning Away from Disconnected Ad-Hoc Spreadsheets:** When a growing contractor outgrows manual invoice tracking and needs a fixed, error-resistant monthly CVR workflow that any team member can operate immediately.
+- **Junior Quantity Surveyors (QS) & Assistant QS — *QS CVR Excel Template*:** Run structured monthly interim valuation reconciliations, track subcontractor certified vs. applied values, and hand your commercial manager a clean, error-free CVR pack without building formulas from scratch.
+- **Construction Project Managers (PMs) & Site Engineers — *Construction Project Cost Control Spreadsheet*:** See true package-level Cost to Complete (CTC), unbilled plant/labor accruals, and margin erosion in plain English—without waiting weeks for head-office accounting close.
+- **Small-to-Midsize Contractors & Project Owners — *Free Offline Alternative to Construction ERP Software*:** Get structured package-level cost visibility across residential, fit-out, civil, facade, and MEP jobs without paying steep recurring subscriptions for enterprise tools like Procore, Coins, or CMiC.
+- **Project Accountants & Cost Controllers — *Construction Accruals & WIP Excel Tracker*:** Bridge the timing gap between booked AP/general ledger numbers and physical site progress to assemble cleaner month-end accrual schedules and WIP reviews.
+- **Subcontract & Procurement Administrators — *Subcontractor Exposure & Payment Control Tracker*:** Catch packages trending over budget early enough to trigger procurement reviews, back-charge checks, and payment certificate controls.
 
 ---
 
-## Quick Start Workflow: Run a Professional Monthly CVR in Minutes
+## Real-World Scenarios: When This Plug-and-Play Workbook Saves the Day
 
-Commercial cost reconciliation and accrual accounting look complex on paper, which is why many small teams avoid doing them until cash flow breaks. **In this Excel workbook, all auto-matching lookup rules, risk-weighting logic, and dynamic consolidation formulas are already pre-built and self-updating.** You do not even need to double-click to drag formulas down—simply paste your project data and read the decision outputs.
+1. **Last-Minute Director Review Under Time Pressure:** Leadership wants the real margin before subcontractor invoices arrive—and you need a clean, trustworthy reconciliation pack ready in minutes instead of staying late at the office.
+2. **Managing Multiple Trade Packages (MEP, Civil, Fit-Out, Facade):** When 10 to 50+ subcontract packages run at once and a single slipping trade could quietly erase the entire project's profit.
+3. **Projects Loaded With Unagreed Variations:** When pending change orders make up a huge chunk of expected revenue, and you need a clear, objective framework to separate real entitlement from wishful thinking.
+4. **Upgrading From Messy Ad-Hoc Spreadsheets:** When basic invoice-tracking sheets are no longer enough, and you want a fixed, repeatable monthly CVR workflow anyone on the team can operate immediately.
 
-### Step 1: Test the Logic Free Online or Set Your Monthly CVR Parameters
-Start by exploring the calculation flow in the [Free Online Construction CVR & Accruals Web Tool](https://hyvoid.github.io/construction-cvr-accruals-excel-template/), or open `00_Global Parameters` inside the local Excel workbook. Set your monthly **cut-off date**, currency symbol, variation confidence percentages, margin-drift warning thresholds, accrual alert limits, and claim follow-up thresholds. Because every assumption is centralized, you can adjust commercial risk rules anytime without rebuilding a single formula.
+---
 
-### Step 2: Copy-Paste Your Valuation, Ledger & Site Accrual Data
-Paste your existing spreadsheet or accounting exports directly into the three designated input tabs:
-- `01_Value & Variation Register` — original contract values by package, certified interim valuations, and pending change orders/variations with evidence status.
-- `02_Booked Cost Ledger` — financial ledger / AP cost transactions booked up to the cut-off date.
+## Quick Start Workflow: From Raw Data to Executive Clarity in 4 Simple Steps
+
+Commercial cost reconciliation looks intimidating on paper, which is why so many teams put it off until cash flow hurts. **In this Excel workbook, every lookup rule, risk-weighting formula, and dashboard summary is already built and self-updating.** You do not even need to drag formulas down—just paste your data and read the decisions.
+
+### Step 1: Set Your Monthly Rules Once (`00_Global Parameters`)
+Open `00_Global Parameters` (or test the flow first in the [Free Online Web Calculator](https://hyvoid.github.io/construction-cvr-accruals-excel-template/)). Enter your monthly **cut-off date**, currency symbol, variation confidence percentages, and margin-drift alert thresholds. Change any assumption anytime without touching a single formula.
+
+### Step 2: Copy-Paste Your Site & Ledger Data (`01`–`03` Input Tabs)
+Drop your existing spreadsheets or accounting exports straight into three clean input tabs:
+- `01_Value & Variation Register` — original package contract values, certified interim valuations, and pending variations with evidence status (`A`, `B`, or `C`).
+- `02_Booked Cost Ledger` — AP / ledger cost transactions recorded up to the cut-off date.
 - `03_Site Accruals & CTC` — unbilled equipment hire, site labor, subcontractor valuation variances, and estimated remaining Cost to Complete (CTC).
 
-### Step 3: Review Automated Package-Level CVR, EAC & Margin Drift
-Open `04_Package CVR Engine`. The workbook automatically matches every package code across all input sheets, consolidates risk-adjusted revenue, booked costs, site accruals, and CTC, and computes **Estimate at Completion (EAC), forecast profit, forecast margin %, margin drift, and package risk status** with zero manual formula copying.
+### Step 3: Let the Engine Reconcile Every Trade Automatically (`04_Package CVR Engine`)
+Open `04_Package CVR Engine`. The workbook automatically matches every package code across all input tabs and calculates **risk-adjusted revenue, actual incurred cost, Estimate at Completion (EAC), forecast profit, forecast margin %, margin drift, and alert status**—with zero manual formula editing.
 
-### Step 4: Spot Profit Leaks & Trigger Commercial Control Actions
-- Open `05_Profit Reality & Margin Drift Dashboard` to compare book profit vs. true forecast profit and immediately isolate your worst-performing trade packages.
-- Open `06_Claims & Procurement Control Orders` to generate an prioritized action list of high-value unresolved variations needing evidence substantiation and red-alert packages requiring procurement or payment controls.
-
-### Step 5: Lock In a Reusable Local Monthly Workflow (Upgrade from Single-Use Testing)
-The free web tool is built for quick, one-off testing. When you are ready to run real monthly commercial control across active projects without starting over every month, move to the full local Excel workbook:
-
-- **1-Minute Decision Clarity for Beginners:** Copy-paste your raw site and ledger data once to get executive-level commercial analysis immediately—letting you spot profit leaks in 1 minute and stay focused on high-value construction delivery during peak seasons.
-- **Simple, Fixed & Reusable Locally:** Turn a complicated monthly QS/accounting headache into a repeatable copy-paste Excel workflow saved directly on your hard drive for unlimited projects and reporting periods.
-- **One-Time Purchase vs. Expensive SaaS Subscriptions:** Pay once at a fraction of the recurring monthly or annual subscription cost charged by mainstream construction cost-control software.
-- **100% Offline Data Privacy:** Sensitive contractor margins, subcontractor rates, and disputed claim valuations stay strictly on your local device—eliminating cloud security and third-party data exposure risks.
-- **Risk-Free Evaluation:** Backed by a **30-day no-questions-asked money-back guarantee**.
-
-> **Ready to standardize your monthly project cost control?**
-> [Download the Full Monthly Construction CVR & Accruals Excel Workbook (One-Time Purchase · 30-Day Money-Back Guarantee)](https://theseusworkshop.com/l/cnjyy?utm_source=github&utm_medium=GitHub%20README)
+### Step 4: Spot Profit Leaks & Take Action (`05` Dashboard & `06` Control Orders)
+- Open `05_Profit Reality & Margin Drift Dashboard` to compare book profit vs. true forecast profit at a glance and immediately isolate your worst-performing trade packages.
+- Open `06_Claims & Procurement Control Orders` to get an instant prioritized checklist of high-value variations needing evidence follow-up and red-alert packages needing procurement or payment controls.
 
 ---
 
-## The Business Logic & Methodology: Exposing Hidden Construction Profit Blind Spots
+## Web Calculator vs. Full Local Excel Workbook (Both Free!)
 
-Many construction teams—especially non-accountants and first-time project managers—only discover a job is losing money in the final two months of construction. That happens because standard financial reports contain **three structural commercial blind spots**:
+The browser calculator is great for a 30-second test drive. When you are ready to run real monthly commercial control on live projects, download the complete local Excel workbook for free:
 
-1. **The Invoice Lag Illusion (Unbilled Liability Blind Spot):** Accounting ledgers only record costs after invoices are approved and entered. On an active job site, plant hire, labor, and subcontractor work happen weeks before bills arrive. Relying purely on booked ledger costs makes a losing package look profitable until late invoices wipe out cash reserves.
-2. **The 100% Claim Trap (Optimistic Variation Blind Spot):** Submitting a $100,000 change order does not mean the client will certify $100,000. Counting disputed or unsubstantiated variations at full face value inflates reported revenue today and forces sudden write-downs at final account settlement.
-3. **The Portfolio Averaging Blind Spot:** Looking only at total project margin hides package-level failure. A +15% margin on structural concrete can conceal a -25% blowout on MEP or facade subcontracting until the work is already installed and commercial leverage is gone.
-
-### How This Workbook Solves Them (6-Part Commercial Control Framework)
-
-The model enforces a straightforward commercial rule: **measure project profit using reasonably supportable revenue and the full cost required to finish the entire scope—never just the invoices processed so far.**
-
-- **Cut-Off Date Alignment:** Forces revenue certifications, ledger costs, and site accruals onto one common monthly cut-off date so timing mismatches cannot distort profit.
-- **Evidence-Weighted Variation Valuation:** Discounts pending change orders according to their actual approval and evidence status, preventing uncertain claims from inflating forecast revenue.
-- **Site Accrual Recognition:** Brings incurred-but-unbilled equipment, labor, and subcontractor liabilities into the monthly report immediately, aligning financial numbers with physical site progress.
-- **Estimate at Completion (EAC) Forecasting:** Combines incurred booked costs, site accruals, and remaining Cost to Complete (CTC) to project final package cost while there is still time to intervene.
-- **Package-Level Margin Drift Monitoring:** Benchmarks current forecast margin against the original commercial target for every trade package, exposing margin fade immediately.
-- **Exception-to-Action Control Register:** Automatically filters high-value disputed variations and severe margin-drift packages into concrete commercial tasks—evidence collection, variation negotiation, and procurement/payment holds.
-
----
-
-## Construction Cost Control Comparison: Traditional Ledger Reporting vs. Package-Level CVR Excel Workflow
-
-| Construction Cost Control Failure Mode | Traditional Ledger & Manual Spreadsheet Reporting (High Margin-Fade Risk) | Automated Monthly CVR & Accruals Excel Template Workflow |
+| Feature | Free Online Web Calculator | Full Local Excel Workbook (**Free · $0+ Pay What You Want**) |
 |---|---|---|
-| **AP Invoice Lag & Unbilled Site Liabilities** | Month-end P&L overstates gross profit because consumed plant hire, daywork labor, and subcontractor work have not entered accounts payable | Unbilled plant, labor, and subcontract valuation variances are systematically captured as **monthly site accruals** |
-| **Unagreed Change Orders & Disputed Variations** | Submitted variation applications are booked at 100% face value, creating inflated WIP revenue and sudden final-account write-offs | Pending variations are **risk-adjusted by evidence and confidence tier**, revealing recoverable revenue vs. claim exposure |
-| **Mismatched Finance & Site Cut-Off Dates** | Valuation applications, subcontractor certificates, and ledger postings span different periods, distorting monthly commercial margin | All revenue, booked ledger transactions, and site accruals are locked to a **single monthly cut-off date** |
-| **Ignoring Remaining Cost to Complete (CTC)** | Teams review sunk costs to date without quantifying the cash still required to finish remaining package scope | **Package-level EAC** combines booked costs, site accruals, and remaining CTC to forecast true profit at completion |
-| **Project-Total Masking of Package Margin Fade** | Consolidated project profit totals conceal severe cost overruns inside individual MEP, civil, or fit-out subcontract packages | Automated **package-level margin drift tracking** flags individual trades slipping below original tender/target margins |
-| **Static Reports Without Commercial Enforcement** | Month-end cost reports sit in folders while overdue claims lose substantiation and over-budget subcontractors keep getting paid | High-risk variation claims and red-alert packages automatically populate **Claims & Procurement Control Orders** |
+| **Best For** | Quick single-scenario sandbox testing | Real monthly reporting across active multi-package projects |
+| **Multi-Package Consolidation** | Single scenario only | Unlimited trade packages (auto-matched by package code) |
+| **Copy-Paste Raw Exports** | Manual entry | Direct copy-paste from accounting & QS spreadsheets |
+| **Executive Dashboard & Action Orders** | Summary output only | Full 7-tab system: CVR Engine + Profit Dashboard + Control Orders |
+| **Reusable Every Month** | Resets on reload | Save locally on your drive and reuse across unlimited projects |
+| **Financial Data Privacy** | Browser session | **100% offline local file**—sensitive margins and rates never touch the cloud |
+
+> **Ready to take control of your monthly project margins in minutes?**
+> **[Download the Complete Monthly Construction CVR & Accruals Excel Workbook — Free ($0+ Pay What You Want)](https://theseusworkshop.com/l/cnjyy?utm_source=github&utm_medium=GitHub%20README)**
+> *Enter `$0` to download completely free, or pay what you want to support more lightweight, no-subscription Excel toolkits.*
 
 ---
 
-## Why I Built This Monthly CVR & Cost Control Framework
+## The Business Logic: 3 Hidden Profit Blind Spots This Workbook Exposes
 
-Construction projects rarely fail overnight because of a single bad tender number. They bleed profit quietly because site operations, commercial valuations, and financial accounting run on three different clocks.
+Many construction teams—especially first-time project managers and non-accountants—only discover a job is losing money in the final two months. That happens because standard financial reports suffer from **three structural blind spots**:
 
-Finance records costs when invoices clear accounts payable. Site teams burn equipment, labor, and subcontract hours weeks earlier. Commercial teams submit change orders that sit in negotiation for months. When management combines partial ledger costs with unverified variation claims, the monthly report shows healthy profit right up until the final account collapses.
+1. **The Invoice Lag Illusion (Unbilled Liability Blind Spot):** Accounting ledgers only record costs after invoices are approved and entered. On an active job site, plant hire, labor, and subcontract work happen weeks earlier. Relying purely on booked costs makes a bleeding package look profitable until late bills wipe out your cash.
+2. **The 100% Claim Trap (Optimistic Variation Blind Spot):** Submitting a $100,000 change order does not mean the client will certify $100,000. Counting disputed or weakly documented variations at full face value inflates reported revenue today and causes painful write-downs at final account.
+3. **The Portfolio Averaging Blind Spot:** Looking only at total project margin hides package-level failure. A +15% margin on concrete can easily mask a -25% blowout on MEP or facade subcontracting until the work is already built and your commercial leverage is gone.
 
-I built this workbook to turn that reconciliation gap into a repeatable monthly habit. By placing certified revenue, risk-adjusted variations, booked ledger costs, unbilled site accruals, and remaining Cost to Complete side by side at the subcontract package level, teams can see when a "profitable" package has already slipped into a loss—early enough to tighten procurement, substantiate claims, and protect final margin without rebuilding spreadsheets every month.
+### How This Framework Fixes Them
+
+The model enforces one simple, rock-solid commercial rule: **measure project profit using reasonably supportable revenue and the full cost required to finish the entire scope—never just the invoices processed so far.**
+
+- **Cut-Off Date Alignment:** Locks revenue certifications, ledger costs, and site accruals to one monthly cut-off date so timing mismatches cannot distort profit.
+- **Evidence-Weighted Variation Valuation:** Discounts pending change orders by their actual approval and evidence tier (`A`, `B`, `C`), preventing uncertain claims from inflating forecast profit.
+- **Site Accrual Recognition:** Pulls incurred-but-unbilled equipment, labor, and subcontractor liabilities into the monthly report immediately.
+- **Estimate at Completion (EAC) Forecasting:** Combines booked costs, site accruals, and remaining Cost to Complete (CTC) to project final package cost while there is still time to act.
+- **Package-Level Margin Drift Alerts:** Benchmarks current forecast margin against the original target margin for every trade package, flagging margin fade immediately.
+- **Exception-to-Action Control Register:** Turns raw variances into clear commercial tasks—claim substantiation, variation negotiation, and procurement/payment checks.
 
 ---
 
-## About Theseus Workshop — Lightweight Local Excel Decision Toolkits
+## Comparison: Traditional Ledger Reporting vs. Automated CVR Excel Workflow
 
-I build practical, locally stored operational trackers and financial decision-support Excel toolkits for construction teams, contractors, and business operators dealing with too many moving parts.
+| Construction Cost Control Failure Mode | Traditional Ledger & Manual Spreadsheets (High Margin-Fade Risk) | This Free Monthly CVR & Accruals Excel Workflow |
+|---|---|---|
+| **AP Invoice Lag & Unbilled Liabilities** | Month-end P&L overstates profit because site plant hire, labor, and subcontract work have not hit accounts payable yet | Unbilled plant, labor, and subcontract valuation variances are systematically captured as **monthly site accruals** |
+| **Disputed Change Orders & Variations** | Submitted claims are booked at 100% face value, creating inflated WIP revenue and surprise final-account write-offs | Pending variations are **risk-adjusted by evidence tier**, separating recoverable revenue from claim exposure |
+| **Mismatched Cut-Off Dates** | Valuations, subcontractor certificates, and ledger postings span different dates, distorting monthly commercial margin | All revenue, booked costs, and site accruals are locked to a **single monthly cut-off date** |
+| **Ignoring Remaining Cost to Complete (CTC)** | Teams review sunk costs to date without quantifying the cash still needed to finish remaining scope | **Package-level EAC** combines booked costs, site accruals, and remaining CTC to forecast true profit at completion |
+| **Project Totals Masking Losing Trades** | Consolidated project profit hides severe cost overruns inside individual MEP, civil, or fit-out packages | Automated **package-level margin drift tracking** flags individual trades slipping below original target margins |
+| **Passive Reports Without Follow-Up** | Monthly reports sit untouched while overdue claims lose evidence and over-budget trades keep getting paid | High-risk variations and red-alert packages automatically populate **Claims & Procurement Control Orders** |
 
-Every toolkit is built around one question: **What numbers need to sit in one place so you can make the next commercial decision confidently in minutes?**
+---
 
-Looking for more ready-to-use, one-time-purchase Excel workbooks for construction estimating, project cost control, cash flow forecasting, and operational management—with zero recurring SaaS fees and full offline privacy?
+## Why I Built This (And Why It's Free)
 
-- **[Browse All Construction & Business Decision Excel Toolkits at Theseus Workshop (theseusworkshop.com)](https://theseusworkshop.com/)**
-- **[Download the Full Monthly Construction CVR & Accruals Excel Workbook](https://theseusworkshop.com/l/cnjyy?utm_source=github&utm_medium=GitHub%20README)**
+Construction projects rarely lose money overnight because of one bad tender price. They bleed profit quietly because site operations, commercial valuations, and accounting run on three different clocks.
+
+I built this workbook to turn that messy reconciliation gap into a calm, 10-minute monthly habit. More importantly, **I made this complete CVR workbook free ($0+ Pay What You Want) as the flagship starter toolkit for Theseus Workshop**—so you can experience firsthand how a well-designed, ready-to-use local Excel workflow can give you big-company analytical confidence without expensive SaaS subscriptions or months of training.
+
+---
+
+## About Theseus Workshop — Plug-and-Play Excel Decision Toolkits (Small Cost, Big Results)
+
+**Theseus Workshop** builds lightweight, locally stored Excel decision toolkits for hands-on professionals, contractors, and business operators who face real commercial decisions every week—and want **instant, reliable analytical tools** rather than bloated enterprise software.
+
+Every toolkit is built around one standard: **Paste your operational numbers, get clear executive answers in minutes, and keep 100% control offline.**
+
+If this free CVR workbook saves you hours at month-end, explore our growing library of affordable, one-time-purchase Excel toolkits covering **construction estimating, BOQ costing, project cash flow, cost control, and broader business decision workflows**:
+
+- **[Download This Free Monthly Construction CVR & Accruals Excel Workbook ($0+ PWYW)](https://theseusworkshop.com/l/cnjyy?utm_source=github&utm_medium=GitHub%20README)**
+- **[Explore All Ready-to-Use Business & Construction Decision Toolkits at Theseus Workshop (theseusworkshop.com)](https://theseusworkshop.com/)**
 - **[View the Apache 2.0 Repository License](LICENSE)**
 
+---
 
-## Technical Details
+## Technical Details & Formula Documentation
 
 <details>
-<summary>For technical reviewers, Excel practitioners, and collaborators</summary>
+<summary>Expand full technical specification, worked example, exact Excel formulas, validation rules & troubleshooting (for technical reviewers and Excel practitioners)</summary>
 
 ### Workbook Architecture
 
@@ -274,9 +281,7 @@ The corrected approach separates the submitted amount from the risk-adjusted amo
 <summary>Formula reference — variation risk adjustment</summary>
 
 ```excel
-Risk-Adjusted Variation =
-Submitted Variation Amount
-* Confidence Factor
+Risk-Adjusted Variation = Submitted Variation Amount * Confidence Factor
 ```
 
 The confidence factor is assigned according to the selected variation evidence level.
@@ -383,7 +388,6 @@ The appropriate response is a commercial review, claim evidence follow-up, and c
 ### Formula Reference
 
 The formulas below describe the workbook's calculation logic. Formula groups are organized by source sheet and calculation layer.
-
 
 <details>
 <summary>Formula Reference — Input and Calculation Sheets</summary>
@@ -818,7 +822,6 @@ The design specification reports the cross-validation as complete. This is a des
 
 ---
 
-
 ## Monthly Operating Procedure
 
 ### Step 1 — Update the Cut-off and Parameters
@@ -929,9 +932,11 @@ If the project changes currency, synchronize the numeric display formats across 
 
 </details>
 
-## Other Tools in This Series
+---
 
-Explore other lightweight construction and project-control tools in the [Theseus Workshop / HyVoid GitHub repositories](https://github.com/HyVoid).
+## More Plug-and-Play Toolkits in This Series
+
+Ready to build out the rest of your project and commercial workflow? Explore more lightweight, ready-to-use templates across the [Theseus Workshop / HyVoid GitHub repositories](https://github.com/HyVoid) and on [theseusworkshop.com](https://theseusworkshop.com/):
 
 - [Construction Estimating](https://github.com/HyVoid/construction-estimating) — Standardize construction tender estimating and transform completed estimates into reusable cost libraries.
 - [AIA Construction Estimating Cost Tracking Workbook](https://github.com/HyVoid/aia-construction-cost-tracker-excel) — Compare construction estimates against actual costs throughout project delivery using AIA-standard formats.
@@ -940,7 +945,7 @@ Explore other lightweight construction and project-control tools in the [Theseus
 - [Tunnel Drill and Blast Cost Estimation BOQ Engine](https://github.com/HyVoid/tunnel-cost-estimator-boq-excel) — Estimate drill-and-blast tunnel excavation, drilling, blasting, support, equipment, and labour requirements into a complete project cost and BOQ.
 - [DIN 743 Shaft Calculations](https://github.com/HyVoid/DIN-743-Shaft-Calculations) — Apply DIN 743 shaft calculation standards to engineering design decisions.
 
-Designed to support estimation, cost tracking, project management, and operational decision-making without requiring a full enterprise software implementation.
+Built to give growing teams executive-grade estimation, cost control, and business decision clarity—without enterprise software bloat.
 
 ## License
 
